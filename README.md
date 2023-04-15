@@ -3,10 +3,12 @@
 
 |   Directory  |    Files      |
 |:------------:|:-------------:|
-|   [led_on](./led_on/)    | led_on.bit |
-|                 | led_on.tcl |
-|                 | led_on.hwh |
-|   [led_blink](/led_blink/) | ledblink.bit |
+|   [led_on](./led_on/)    | [led_on_block.ipynb](./led_on/led_on_block.ipynb) |
+|                 | led_on_block.bit |
+|                 | led_on_block.tcl |
+|                 | led_on_block.hwh |
+|   [led_blink](/led_blink/) | [ledblink.ipynb](./led_blink/ledblink.ipynb) |
+|                 | ledblink.bit |
 |                 | ledblink.tcl |
 |                 | ledblink.hwh |
 
